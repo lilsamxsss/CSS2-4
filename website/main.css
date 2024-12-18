@@ -1,0 +1,187 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#divimg {
+    background-image: url("../website/image/image.svg");
+    width: 1400px;
+    height: 674px;
+    margin: 0 auto;
+    padding: 39px;
+    margin-top: 156px;
+}
+
+#lorem {
+    color: #FFF;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 1258px;
+}
+
+#border {
+    margin-top: 115px;
+    margin-left: 392px;
+    background: #EBF8FE;
+    width: 1137px;
+    padding: 40px 32px;
+    align-items: center;
+    border-radius: 24px;
+}
+
+#divwidh1 {
+    width: 1100px;
+}
+
+#divtext1 {
+    margin-left: 47px;
+    width: 1000px;
+    margin-top: 40px;
+}
+
+#h21 {
+    font-size: 64px;
+}
+
+#divtext2 {
+    margin-top: 24px;
+    margin-left: 15px;
+    width: 1100px;
+}
+
+#text1 {
+    font-size: 32px;
+}
+
+#email {
+    display: inline-block;
+    margin-top: 24px;
+    margin-left: 324px;
+
+}
+
+#name {
+    display: inline-block;
+    padding: 12px 14px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    width: 317px;
+}
+
+#buttom {
+    display: inline-block;
+}
+
+#firstbutton {
+    margin-left: 24px;
+    padding: 12px 18px;
+    border-radius: var(--radius-md, 8px);
+    border: 2px solid #FFF;
+    background: #007CB8;
+    color: #FFF;
+}
+
+#text2 {
+    color: #535862;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 324px;
+}
+
+#text3 {
+    color: #535862;
+    display: inline-block;
+}
+
+#divtext4 {
+    margin: 0 auto;
+    margin-top: 72px;
+    width: 546px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background: #EBF8FE;
+}
+
+#text4 {
+    font-size: 40px;
+}
+
+#fulllabel {
+    margin-top: 24px;
+    display: block;
+}
+
+#fullname {
+    color: #6D5F8B;
+    font-size: 14px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 450px;
+    background: #EBF8FE;
+    line-height: 22px;
+    margin-top: 8px;
+}
+
+#divtext6 {
+    margin-top: 24px;
+    display: block;
+}
+
+#emails {
+    display: block;
+}
+
+#email1 {
+    color: #6D5F8B;
+    font-size: 14px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 450px;
+    background: #EBF8FE;
+    line-height: 22px;
+    margin-top: 8px;
+}
+
+#divtext7 {
+    color: #1B003D;
+    font-size: 14px;
+    margin-top: 24px;
+}
+
+#friends {
+    margin-top: 7px;
+}
+
+#yes {
+    margin-top: 7px;
+}
+
+#no {
+    margin-top: 10px;
+}
+
+#maybe {
+    margin-top: 10px;
+}
+
+#language {
+    margin-top: 24px;
+}
+
+#firstyes {
+    width: 300px;
+}
+
+.text0 {
+    margin-top: 10px;
+}
+
+.text22 {
+    margin-top: 7px;
+}
